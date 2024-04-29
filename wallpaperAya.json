@@ -6,9 +6,9 @@
   
  "AdsController": {
       
-    "BannerNetwork"           : "AdMob",
-    "InterstitialNetwork"     : "AdMob",
-    "NativeNetwork"           : "AdMob",
+    "BannerNetwork"           : "unity",
+    "InterstitialNetwork"     : "unity",
+    "NativeNetwork"           : "admob",
     "OpenAdNetwork"           : "AdMob",
    
     "IntervalClick"           : 1,
