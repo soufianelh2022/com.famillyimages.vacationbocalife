@@ -8,8 +8,8 @@
       
     "BannerNetwork"           : "unity",
     "InterstitialNetwork"     : "unity",
-    "NativeNetwork"           : "admob",
-    "OpenAdNetwork"           : "AdMob",
+    "NativeNetwork"           : "unity",
+    "OpenAdNetwork"           : "unity",
    
     "IntervalClick"           : 1,
     
