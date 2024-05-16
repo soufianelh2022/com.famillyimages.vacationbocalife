@@ -6,12 +6,14 @@
   
  "AdsController": {
       
-    "BannerNetwork"           : "Yandex",
-    "InterstitialNetwork"     : "Yandex",
-    "NativeNetwork"           : "Yandex",
-    "OpenAdNetwork"           : "Yandex",
+    "BannerNetwork"           : "huawei",
+    "InterstitialNetwork"     : "ironsource",
+    "NativeNetwork"           : "huawei",
+    "OpenAdNetwork"           : "yandex",
    
     "IntervalClick"           : 1,
+
+    "Ironsource_appid"        : "85460dcd",
     
     "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
     "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
@@ -33,10 +35,10 @@
     "Huawei_Native"           : "testy63txaom86",
     "Huawei_RewardAd"         : "testx9dtjwj8hp",
     
-    "Unity_GameID"            : "5608259",
-    "Unity_Banner"            : "Banner_Android",
-    "Unity_InterstitialAd"    : "Interstitial_Android",
-    "Unity_RewardAd"          : "Rewarded_Android"
+    "Unity_GameID"            : "4076527",
+    "Unity_Banner"            : "BannerAd",
+    "Unity_InterstitialAd"    : "InterstitialAd",
+    "Unity_RewardAd"          : "rewardedVideo"
 
   }
 }
