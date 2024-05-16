@@ -1,135 +1,140 @@
 {
   "categories": [
     {
-      "name": "Toca familly vacations images 1",
-      "preview": "https://i.ytimg.com/vi/Vy7bsd72BxE/maxresdefault.jpg",
+      "name": "category_name_1",
+      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true",
       "wallpapers": [
         {
           "id": 0,
-          "category": "Toca familly vacations images 1",
-          "path": "https://i.ytimg.com/vi/8hLEHUIaATI/maxresdefault.jpg"
+          "category": "category_name_1",
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
         },
         {
           "id": 1,
-          "category": "Toca familly vacations images 1",
-          "path": "https://obstanovka.club/uploads/posts/2023-03/1680077577_obstanovka-club-p-prikhozhaya-v-toka-boka-osobnyak-krasivo-17.jpg"
+          "category": "category_name_1",
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
         },
         {
           "id": 2,
-          "category": "Toca familly vacations images 1",
-          "path": "https://klev.club/uploads/posts/2023-10/1698671749_klev-club-p-risunki-toka-boka-malishka-18.jpg"
+          "category": "category_name_1",
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
         },
         {
           "id": 3,
-          "category": "Toca familly vacations images 1",
-          "path": "https://i.pinimg.com/originals/19/a1/bc/19a1bc027d3d50e2e68c9ab604b2e2e0.jpg"
+          "category": "category_name_1",
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
         },
         {
           "id": 4,
-          "category": "Toca familly vacations images 1",
-          "path": "https://i.ytimg.com/vi/Pms702t8hZs/maxresdefault.jpg"
+          "category": "category_name_1",
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
         },
         {
           "id": 5,
-          "category": "Toca familly vacations images 1",
-          "path": "https://i.ytimg.com/vi/oEEu539MvBw/maxresdefault.jpg"
+          "category": "category_name_1",
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
         },
         {
           "id": 6,
-          "category": "Toca familly vacations images 1",
-          "path": "https://is2-ssl.mzstatic.com/image/thumb/Features128/v4/11/04/64/110464e4-7ca8-d54a-6077-6a83f7f1ba97/source/1028x630fo.jpg"
+          "category": "category_name_1",
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
         },
         {
           "id": 7,
-          "category": "Toca familly vacations images 1",
-          "path": "https://image.winudf.com/v2/image1/Y29tLm1hcmluYS50b29jYXdvcmxkMV9zY3JlZW5fMV8xNjQyNjg4NDg4XzAzNg/screen-1.jpg?fakeurl=1&type=.jpg"
-        }
-   
-        {
-          "id": 0,
-          "category": "Toca familly vacations images 2",
-          "path": "https://image.winudf.com/v2/image1/Y29tLmJhbW9zc2EudG9vb29jYWJjX3NjcmVlbl8wXzE2NDIyNTc0OTZfMDgx/screen-0.jpg?fakeurl=1&type=.jpg"
-        },
-        {
-          "id": 1,
-          "category": "Toca familly vacations images 2",
-          "path": "https://i.ytimg.com/vi/ld44_CU-OjA/maxresdefault.jpg"
-        },
-        {
-          "id": 2,
-          "category": "Toca familly vacations images 2",
-          "path": "https://image.winudf.com/v2/image/Y29tLnRvY2Fib2NhLnRvY2FsaWZld29ybGRfc2NyZWVuXzRfMTUzODc1MTMxNF8wNzE/screen-4.jpg?h=800&fakeurl=1&type=.jpg"
-        },
-        {
-          "id": 3,
-          "category": "Toca familly vacations images2",
-          "path": "https://images-eu.ssl-images-amazon.com/images/I/A1doc29lVML.png"
-        },
-        {
-          "id": 4,
-          "category": "Toca familly vacations images 2",
-          "path": "https://gas-kvas.com/uploads/posts/2023-02/1675508253_gas-kvas-com-p-risunki-toka-boka-zhivotnie-19.jpg"
-        },
-        {
-          "id": 5,
-          "category": "Toca familly vacations images 2",
-          "path": "https://static.appvn.com/a/uploads/screenshots/032018/toca-life-after-school_sc_12.png"
-        },
-        {
-          "id": 6,
-          "category": "Toca familly vacations images 2",
-          "path": "https://image.winudf.com/v2/image1/dG9jYS50cmlja3MuZ3VpZGUuYm9jYS5saWZlLnRpcHNfc2NyZWVuXzE0XzE2NTAyNDU4NDNfMDc0/screen-14.jpg?fakeurl=1&type=.jpg"
-        },
-        {
-          "id": 7,
-          "category": "Toca familly vacations images 2",
-          "path": "https://image.winudf.com/v2/image/Y29tLnRvY2Fib2NhLnRvY2FsaWZlZmFybV9zY3JlZW5fNV8xNTMxNTgzNTc5XzA0MQ/screen-5.jpg?fakeurl=1&type=.jpg"
+          "category": "category_name_1",
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
         }
       ]
     },
     {
-      "name": "Toca familly vacations images 3",
-      "preview": "https://raskraskirus.ru/wp-content/uploads/f/a/f/faf52a0c3006f5f3f69a3082b23ba917.png",
+      "name": "category_name_2",
+      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/2503295.jpg?raw=true",
       "wallpapers": [
         {
           "id": 0,
-          "category": "Toca familly vacations images 3",
-          "path": "https://art.kartinkof.club/uploads/posts/2023-07/1689018039_art-kartinkof-club-p-idei-dlya-srisovki-toca-boca-95.jpg"
+          "category": "category_name_2",
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/2503295.jpg?raw=true"
         },
         {
           "id": 1,
-          "category": "Toca familly vacations images 3",
-          "path": "https://i.ytimg.com/vi/wih5fnX7ujk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGQgZChkMA8=&amp;rs=AOn4CLCelv8TVna89BQ4F1_l2LA87UdFvA"
+          "category": "category_name_2",
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
         },
         {
           "id": 2,
-          "category": "Toca familly vacations images 3",
-          "path": "https://i.ytimg.com/vi/YCENVdFs9Lk/maxresdefault.jpg"
+          "category": "category_name_2",
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
         },
         {
           "id": 3,
-          "category": "Toca familly vacations images 3",
-          "path": "https://image.winudf.com/v2/image1/Y29tLnRpcHN0b2NhdG93bl9nYW1lcGxheTFib2NhLnRvY2FidWlsZHlvdXJvd253b3JsZF9ob3VzZWRlc2lnbjR3YWxsX3NjcmVlbl8yXzE2NTU2Mjk1NTBfMDA2/screen-2.jpg?fakeurl=1&type=.jpg"
+          "category": "category_name_2",
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
         },
         {
           "id": 4,
-          "category": "Toca familly vacations images 3",
-          "path": "https://takewm.online/uploads/posts/2022-02/1644315196_1.jpg"
+          "category": "category_name_2",
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
         },
         {
           "id": 5,
-          "category": "Toca familly vacations images 3",
-          "path": "https://image.winudf.com/v2/image1/Y29tLm1peC50b2NhYm9jYS53b3JkbGlmZS50dG1fc2NyZWVuXzJfMTY0MjM5MzU5MV8wMjE/screen-2.jpg?fakeurl=1&type=.jpg"
+          "category": "category_name_2",
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
         },
         {
           "id": 6,
-          "category": "Toca familly vacations images 3",
-          "path": "https://image.winudf.com/v2/image1/Y29tLm1hcmluYS50b29jYWxpZmV3b3JsZDN0aXBzX3NjcmVlbl80XzE2NDM3Nzc1NjdfMDA2/screen-4.jpg?fakeurl=1&type=.jpg"
+          "category": "category_name_2",
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
         },
         {
           "id": 7,
-          "category": "Toca familly vacations images 3",
-          "path": "https://cms-cdn.now.gg/cms-media/2024/01/now.gg-Toca-World_Beginners-Guide_EN_7.png"
+          "category": "category_name_2",
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+        }
+      ]
+    },
+    {
+      "name": "category_name_3",
+      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true",
+      "wallpapers": [
+        {
+          "id": 0,
+          "category": "category_name_3",
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+        },
+        {
+          "id": 1,
+          "category": "category_name_3",
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+        },
+        {
+          "id": 2,
+          "category": "category_name_3",
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+        },
+        {
+          "id": 3,
+          "category": "category_name_3",
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+        },
+        {
+          "id": 4,
+          "category": "category_name_3",
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+        },
+        {
+          "id": 5,
+          "category": "category_name_3",
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+        },
+        {
+          "id": 6,
+          "category": "category_name_3",
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+        },
+        {
+          "id": 7,
+          "category": "category_name_3",
+          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
         }
       ]
     }
